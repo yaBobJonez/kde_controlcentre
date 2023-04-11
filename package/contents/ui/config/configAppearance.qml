@@ -77,22 +77,22 @@ ColumnLayout {
         CheckBox {
             id: showKDEConnect
             Kirigami.FormData.label: i18n("Show quick toggle buttons:")
-            text: i18n('KDE Connect')
+            text: i18n("KDE Connect")
             enabled: !checked && numChecked < maxNum || checked
         }
         CheckBox {
             id: showNightColor
-            text: i18n('Night Color')
+            text: i18n("Night Color")
             enabled: !checked && numChecked < maxNum || checked
         }
         CheckBox {
             id: showColorSwitcher
-            text: i18n('Color Scheme Switcher')
+            text: i18n("Color Scheme Switcher")
             enabled: !checked && numChecked < maxNum || checked
         }
         CheckBox {
             id: showCmd1
-            text: i18n('Custom Command Block 1')
+            text: i18n("Custom Command Block 1")
             enabled: !checked && numChecked < maxNum || checked
         }
         Kirigami.FormLayout {
@@ -118,7 +118,7 @@ ColumnLayout {
         }
         CheckBox {
             id: showCmd2
-            text: i18n('Custom Command Block 2')
+            text: i18n("Custom Command Block 2")
             enabled: !checked && numChecked < maxNum || checked
         }
         Kirigami.FormLayout {
@@ -157,15 +157,15 @@ ColumnLayout {
         CheckBox {
             id: showVolume
             Kirigami.FormData.label: i18n("Show other components:")
-            text: i18n('Volume Control')
+            text: i18n("Volume Control")
         }
         CheckBox {
             id: showBrightness
-            text: i18n('Brightness Control')
+            text: i18n("Brightness Control")
         }
         CheckBox {
             id: showMediaPlayer
-            text: i18n('Media Player')
+            text: i18n("Media Player")
         }
     }
 

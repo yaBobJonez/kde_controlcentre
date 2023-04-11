@@ -15,7 +15,7 @@ Lib.CardButton {
     visible: root.showColorSwitcher
     Layout.fillHeight: true
     Layout.fillWidth: true
-    title: i18n(Plasmoid.configuration.isDarkTheme ? "Light Theme" : "Dark Theme")
+    title: Plasmoid.configuration.isDarkTheme ? i18n("Light Theme") : i18n("Dark Theme")
     PlasmaCore.IconItem {
         anchors.fill: parent
         source: Plasmoid.configuration.isDarkTheme ? "brightness-high" : "brightness-low"

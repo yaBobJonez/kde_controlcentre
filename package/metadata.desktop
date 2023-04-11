@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Control Centre
+Comment=A control centre inspired by MacOS!
+
+Icon=configure-toolbars
+Type=Service
+
+X-KDE-PluginInfo-Email=prayagjain2@gmail.com
+X-KDE-PluginInfo-Author=Prayag Jain
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Name=com.github.prayag2.controlcentre
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Version=0.1.0
+X-KDE-PluginInfo-Website=https://github.com/prayag2/kde_controlcentre
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-Provides=org.kde.plasma.multimediacontrols,org.kde.plasma.powermanagement,org.kde.plasma.notifications
+X-Plasma-NotificationArea=true
+
+Name[uk]=Центр керування
+Comment[uk]=Центр керування, заснований на MacOS!

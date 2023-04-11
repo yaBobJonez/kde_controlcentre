@@ -1,0 +1,218 @@
+# Translation of controlcentre in Ukrainian
+# Copyright (C) 2023
+# This file is distributed under the same license as the controlcentre package.
+# Mykhailo Stetsiuk <yaBobJonez>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: controlcentre\n"
+"Report-Msgid-Bugs-To: https://github.com/prayag2/kde_controlcentre\n"
+"POT-Creation-Date: 2023-04-11 15:56+0300\n"
+"PO-Revision-Date: 2023-04-11 16:01+0300\n"
+"Last-Translator: Mykhailo Stetsiuk <yaBobJonez@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../metadata.desktop
+msgid "Control Centre"
+msgstr "Центр керування"
+
+#: ../metadata.desktop
+msgid "A control centre inspired by MacOS!"
+msgstr "Центр керування, заснований на MacOS!"
+
+#: ../contents/config/config.qml
+msgid "Appearance"
+msgstr "Вигляд"
+
+#: ../contents/config/config.qml
+msgid "Behaviour"
+msgstr "Поведінка"
+
+#: ../contents/config/config.qml
+msgid "Color schemes"
+msgstr "Тема кольорів"
+
+#: ../contents/config/config.qml
+msgid "Support"
+msgstr "Підтримати"
+
+#: ../contents/ui/components/ColorSchemeSwitcher.qml
+msgid "Light Theme"
+msgstr "Світла тема"
+
+#: ../contents/ui/components/ColorSchemeSwitcher.qml
+msgid "Dark Theme"
+msgstr "Темна тема"
+
+#: ../contents/ui/components/ConnectionItem.qml
+msgid "Connected"
+msgstr "З'єднано"
+
+#: ../contents/ui/components/DndButton.qml
+msgid "Do Not Disturb"
+msgstr "Не турбувати"
+
+#: ../contents/ui/components/KDEConnect.qml ../contents/ui/config/configAppearance.qml
+msgid "KDE Connect"
+msgstr "З'єднання KDE"
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "Unknown Media"
+msgstr "Невідоме медіа"
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "Unknown Artist"
+msgstr "Невідомий виконавець"
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "No Media Playing"
+msgstr "Відтворення не відбувається"
+
+#: ../contents/ui/components/RedShift.qml ../contents/ui/config/configAppearance.qml
+msgid "Night Color"
+msgstr "Нічні кольори"
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Network"
+msgstr "Мережа"
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "System Settings"
+msgstr "Системні параметри"
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Network Connections"
+msgstr "З'єднання мережі"
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Disable Wi-Fi"
+msgstr "Вимкнути Wi-Fi"
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Enable Wi-Fi"
+msgstr "Увімкнути Wi-Fi"
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Disable airplane mode"
+msgstr "Вимкнути режим польоту"
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Enable airplane mode"
+msgstr "Увімкнути режим польоту"
+
+#: ../contents/ui/components/Volume.qml
+msgid "Volume"
+msgstr "Гучність"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Icon:"
+msgstr "Піктограма:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Scale:"
+msgstr "Масштаб:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "General:"
+msgstr "Загальне:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show volume/brightness percentage"
+msgstr "Показувати відсоток гучності/яскравості"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Enable transparency"
+msgstr "Увімкнути прозорість"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show quick toggle buttons:"
+msgstr "Показувати швидкі перемикачі:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Color Scheme Switcher"
+msgstr "Змінювати теми кольорів"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Custom Command Block 1"
+msgstr "Блок користувацьких команд 1"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Name:"
+msgstr "Назва:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Command:"
+msgstr "Команда:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Custom Command Block 2"
+msgstr "Блок користувацьких команд 2"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "You can enable only 2 toggle buttons at a time."
+msgstr "Ви можете обрати одночасно лише 2 перемикачі."
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show other components:"
+msgstr "Показувати інші компоненти:"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Volume Control"
+msgstr "Керування гучністю"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Brightness Control"
+msgstr "Керування яскравістю"
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Media Player"
+msgstr "Програвач медіа"
+
+#: ../contents/ui/config/configBehaviour.qml
+msgid "Volume:"
+msgstr "Гучність:"
+
+#: ../contents/ui/config/configBehaviour.qml
+msgid "Play Volume Feedback"
+msgstr "Відгук по гучності програвання"
+
+#: ../contents/ui/config/configColorscheme.qml
+msgid "Light color"
+msgstr "Світла тема"
+
+#: ../contents/ui/config/configColorscheme.qml
+msgid "Dark color"
+msgstr "Темна тема"
+
+#: ../contents/ui/config/configSupport.qml
+msgid "If you'd like to support me :)"
+msgstr "Якщо Ви хочете мене підтримати :)"
+
+#: ../contents/ui/js/funcs.js
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: ../contents/ui/js/funcs.js
+msgid "Unavailable"
+msgstr "Недоступно"
+
+#: ../contents/ui/js/funcs.js
+msgid "Offline"
+msgstr "Офлайн"
+
+#: ../contents/ui/js/funcs.js
+msgid "Not Connected"
+msgstr "Не з'єднано"

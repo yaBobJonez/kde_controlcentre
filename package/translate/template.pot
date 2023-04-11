@@ -1,0 +1,218 @@
+# Translation of controlcentre in LANGUAGE
+# Copyright (C) 2023
+# This file is distributed under the same license as the controlcentre package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: controlcentre\n"
+"Report-Msgid-Bugs-To: https://github.com/prayag2/kde_controlcentre\n"
+"POT-Creation-Date: 2023-04-11 15:56+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../metadata.desktop
+msgid "Control Centre"
+msgstr ""
+
+#: ../metadata.desktop
+msgid "A control centre inspired by MacOS!"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Appearance"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Behaviour"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Color schemes"
+msgstr ""
+
+#: ../contents/config/config.qml
+msgid "Support"
+msgstr ""
+
+#: ../contents/ui/components/ColorSchemeSwitcher.qml
+msgid "Light Theme"
+msgstr ""
+
+#: ../contents/ui/components/ColorSchemeSwitcher.qml
+msgid "Dark Theme"
+msgstr ""
+
+#: ../contents/ui/components/ConnectionItem.qml
+msgid "Connected"
+msgstr ""
+
+#: ../contents/ui/components/DndButton.qml
+msgid "Do Not Disturb"
+msgstr ""
+
+#: ../contents/ui/components/KDEConnect.qml ../contents/ui/config/configAppearance.qml
+msgid "KDE Connect"
+msgstr ""
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "Unknown Media"
+msgstr ""
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "Unknown Artist"
+msgstr ""
+
+#: ../contents/ui/components/MediaPlayer.qml
+msgid "No Media Playing"
+msgstr ""
+
+#: ../contents/ui/components/RedShift.qml ../contents/ui/config/configAppearance.qml
+msgid "Night Color"
+msgstr ""
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Network"
+msgstr ""
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Bluetooth"
+msgstr ""
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "Settings"
+msgstr ""
+
+#: ../contents/ui/components/SectionButtons.qml
+msgid "System Settings"
+msgstr ""
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Network Connections"
+msgstr ""
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Disable Wi-Fi"
+msgstr ""
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Enable Wi-Fi"
+msgstr ""
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Disable airplane mode"
+msgstr ""
+
+#: ../contents/ui/components/SectionNetworks.qml
+msgid "Enable airplane mode"
+msgstr ""
+
+#: ../contents/ui/components/Volume.qml
+msgid "Volume"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Icon:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Scale:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "General:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show volume/brightness percentage"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Enable transparency"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show quick toggle buttons:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Color Scheme Switcher"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Custom Command Block 1"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Name:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Command:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Custom Command Block 2"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "You can enable only 2 toggle buttons at a time."
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Show other components:"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Volume Control"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Brightness Control"
+msgstr ""
+
+#: ../contents/ui/config/configAppearance.qml
+msgid "Media Player"
+msgstr ""
+
+#: ../contents/ui/config/configBehaviour.qml
+msgid "Volume:"
+msgstr ""
+
+#: ../contents/ui/config/configBehaviour.qml
+msgid "Play Volume Feedback"
+msgstr ""
+
+#: ../contents/ui/config/configColorscheme.qml
+msgid "Light color"
+msgstr ""
+
+#: ../contents/ui/config/configColorscheme.qml
+msgid "Dark color"
+msgstr ""
+
+#: ../contents/ui/config/configSupport.qml
+msgid "If you'd like to support me :)"
+msgstr ""
+
+#: ../contents/ui/js/funcs.js
+msgid "Disabled"
+msgstr ""
+
+#: ../contents/ui/js/funcs.js
+msgid "Unavailable"
+msgstr ""
+
+#: ../contents/ui/js/funcs.js
+msgid "Offline"
+msgstr ""
+
+#: ../contents/ui/js/funcs.js
+msgid "Not Connected"
+msgstr ""
