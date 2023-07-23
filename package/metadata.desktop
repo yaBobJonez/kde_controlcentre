@@ -18,5 +18,7 @@ X-Plasma-MainScript=ui/main.qml
 X-Plasma-Provides=org.kde.plasma.multimediacontrols,org.kde.plasma.powermanagement,org.kde.plasma.notifications
 X-Plasma-NotificationArea=true
 
+Name[ru]=Центр управления
 Name[uk]=Центр керування
+Comment[ru]=Центр управления, основанный на MacOS!
 Comment[uk]=Центр керування, заснований на MacOS!
